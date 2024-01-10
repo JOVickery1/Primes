@@ -12,7 +12,7 @@ from math import sqrt
 
 primes = []
  
-for n in range(0,100000):
+for n in range(0,int(sqrt(100000))):
     primeflag = True
     
     if n == 1 or n==0:
