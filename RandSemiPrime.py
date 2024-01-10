@@ -14,7 +14,7 @@ primes = []
 
 m= int(input("Random semiprime less than what number? "))
  
-for n in range(0,m):
+for n in range(0,int(sqrt(m))):
     primeflag = True
     
     if n == 1 or n==0:
