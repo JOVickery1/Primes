@@ -11,7 +11,7 @@ All programs took a net time of about one afternoon to make.
 
 **PrimeChecker.py:** takes in an number and determines whether it is prime or not.
 
-**factoring.py and factoring2.py:** take in a number and provide the prime factorization. This is a rudimentary factoring algorithm. The difference between the two is that factoring.py uses the math module and factoring2.py uses numpy
+**factoring.py and factoring2.py:** take in a number and provide the factors. This is a rudimentary factoring algorithm. The difference between the two is that factoring.py uses the math module and factoring2.py uses numpy
 
 **RandonPrime.py:** takes in a number and then outputs a prime less than that number every time you hit enter.
 
